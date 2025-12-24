@@ -1,0 +1,2 @@
+# SnapLab
+MVP - Frontend only 
